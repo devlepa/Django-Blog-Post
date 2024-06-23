@@ -1,0 +1,1 @@
+En este caso se trabajo con el motor de base de datos MYSQL, puedes revisar el nombre de la base de datos creada en el archivo settings.py de el projectdjango en el se encuentra como debes de llamar la base de datos mysql
